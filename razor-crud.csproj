@@ -17,4 +17,12 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Pages\CornFlakes\Create.cshtml" />
+    <_ContentIncludedByDefault Remove="Pages\CornFlakes\Delete.cshtml" />
+    <_ContentIncludedByDefault Remove="Pages\CornFlakes\Details.cshtml" />
+    <_ContentIncludedByDefault Remove="Pages\CornFlakes\Edit.cshtml" />
+    <_ContentIncludedByDefault Remove="Pages\CornFlakes\Index.cshtml" />
+  </ItemGroup>
+
 </Project>

@@ -170,3 +170,13 @@
 /Users/laila/RiderProjects/razor-crud/obj/Debug/net5.0/Razor/Pages/Toys/Details.cshtml.g.cs
 /Users/laila/RiderProjects/razor-crud/obj/Debug/net5.0/Razor/Pages/Toys/Edit.cshtml.g.cs
 /Users/laila/RiderProjects/razor-crud/obj/Debug/net5.0/Razor/Pages/Toys/Index.cshtml.g.cs
+/Users/laila/RiderProjects/razor-crud/obj/Debug/net5.0/Razor/Pages/Books/Create.cshtml.g.cs
+/Users/laila/RiderProjects/razor-crud/obj/Debug/net5.0/Razor/Pages/Books/Delete.cshtml.g.cs
+/Users/laila/RiderProjects/razor-crud/obj/Debug/net5.0/Razor/Pages/Books/Details.cshtml.g.cs
+/Users/laila/RiderProjects/razor-crud/obj/Debug/net5.0/Razor/Pages/Books/Edit.cshtml.g.cs
+/Users/laila/RiderProjects/razor-crud/obj/Debug/net5.0/Razor/Pages/Books/Index.cshtml.g.cs
+/Users/laila/RiderProjects/razor-crud/obj/Debug/net5.0/Razor/Pages/Films/Create.cshtml.g.cs
+/Users/laila/RiderProjects/razor-crud/obj/Debug/net5.0/Razor/Pages/Films/Delete.cshtml.g.cs
+/Users/laila/RiderProjects/razor-crud/obj/Debug/net5.0/Razor/Pages/Films/Details.cshtml.g.cs
+/Users/laila/RiderProjects/razor-crud/obj/Debug/net5.0/Razor/Pages/Films/Edit.cshtml.g.cs
+/Users/laila/RiderProjects/razor-crud/obj/Debug/net5.0/Razor/Pages/Films/Index.cshtml.g.cs

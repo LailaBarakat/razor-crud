@@ -28,6 +28,7 @@ namespace razor_crud
 
             services.AddDbContext<razorcrudToyContext>(options =>
                     options.UseSqlite(Configuration.GetConnectionString("razorcrudToyContext")));
+            
             //services.AddDbContext<razor-crudToyContext>(options =>
             //    options.UseSqlite(Configuration.GetConnectionString("razor-crudToyContext")));
         }

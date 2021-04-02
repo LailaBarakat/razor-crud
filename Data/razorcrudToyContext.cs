@@ -13,4 +13,8 @@ using razor_crud.Models;
         }
 
         public DbSet<razor_crud.Models.Toy> Toy { get; set; }
+
+        public DbSet<razor_crud.Models.Book> Book { get; set; }
+
+        public DbSet<razor_crud.Models.Film> Film { get; set; }
     }
